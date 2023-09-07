@@ -12,3 +12,17 @@ C:\repos\vates\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\refint\Estructu
 C:\repos\vates\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.pdb
 C:\repos\vates\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.genruntimeconfig.cache
 C:\repos\vates\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\ref\EstructurasCondicionales.dll
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.AssemblyInfoInputs.cache
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.AssemblyInfo.cs
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.csproj.CoreCompileInputs.cache
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.dll
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\refint\EstructurasCondicionales.dll
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.pdb
+C:\repos\clases\Clase-2\EstructurasCondicionales\bin\Debug\net7.0\EstructurasCondicionales.exe
+C:\repos\clases\Clase-2\EstructurasCondicionales\bin\Debug\net7.0\EstructurasCondicionales.deps.json
+C:\repos\clases\Clase-2\EstructurasCondicionales\bin\Debug\net7.0\EstructurasCondicionales.runtimeconfig.json
+C:\repos\clases\Clase-2\EstructurasCondicionales\bin\Debug\net7.0\EstructurasCondicionales.dll
+C:\repos\clases\Clase-2\EstructurasCondicionales\bin\Debug\net7.0\EstructurasCondicionales.pdb
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\EstructurasCondicionales.genruntimeconfig.cache
+C:\repos\clases\Clase-2\EstructurasCondicionales\obj\Debug\net7.0\ref\EstructurasCondicionales.dll

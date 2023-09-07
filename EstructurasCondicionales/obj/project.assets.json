@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\carre\\.nuget\\packages\\": {}
+    "C:\\Users\\admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\repos\\vates\\Clase-2\\EstructurasCondicionales\\EstructurasCondicionales.csproj",
+      "projectUniqueName": "C:\\repos\\clases\\Clase-2\\EstructurasCondicionales\\EstructurasCondicionales.csproj",
       "projectName": "EstructurasCondicionales",
-      "projectPath": "c:\\repos\\vates\\Clase-2\\EstructurasCondicionales\\EstructurasCondicionales.csproj",
-      "packagesPath": "C:\\Users\\carre\\.nuget\\packages\\",
-      "outputPath": "c:\\repos\\vates\\Clase-2\\EstructurasCondicionales\\obj\\",
+      "projectPath": "C:\\repos\\clases\\Clase-2\\EstructurasCondicionales\\EstructurasCondicionales.csproj",
+      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+      "outputPath": "C:\\repos\\clases\\Clase-2\\EstructurasCondicionales\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\carre\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
