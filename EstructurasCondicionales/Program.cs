@@ -32,12 +32,13 @@ namespace estructuras
             Que desea hacer?
             1.- Calcular temperaturas
             2.- FizzBuzz
-            0.- Salir
+            0.- Salir.
             """);
             int opcion=int.Parse(Console.ReadLine());
             switch(opcion)
             {
                 case 0:
+                    Console.WriteLine("Adios!")
                     break;
                 case 1:
                     Console.WriteLine("--------------Temperaturas-------------");
